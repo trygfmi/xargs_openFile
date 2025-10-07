@@ -31,7 +31,7 @@
 
 <pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/xargs_openFile
 cd xargs_openFile
-find . -type f -name "*.txt" | xargs open</code></pre>
+find . -type f -name "*.txt" | xargs -n 1 open</code></pre>
 
 
 
@@ -59,7 +59,7 @@ find . -type f -name "*.txt" | xargs open</code></pre>
 
 <pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/xargs_openFile
 cd xargs_openFile
-find . -type f -name "*.txt" | xargs open</code></pre>
+find . -type f -name "*.txt" | xargs -n 1 start</code></pre>
 
 
 
@@ -106,7 +106,7 @@ find . -type f -name "*.txt" | xargs open</code></pre>
 
 <pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/xargs_openFile
 cd xargs_openFile
-find . -type f -name "*.txt" | xargs open</code></pre>
+find . -type f -name "*.txt" | xargs -n 1 open</code></pre>
 
 
 
@@ -237,7 +237,7 @@ find . -type f -name "*.txt" | xargs open</code></pre>
 
 <pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/xargs_openFile
 cd xargs_openFile
-find . -type f -name "*.txt" | xargs open</code></pre>
+find . -type f -name "*.txt" | xargs -n 1 start</code></pre>
 
 
 
@@ -252,7 +252,7 @@ find . -type f -name "*.txt" | xargs open</code></pre>
 
 
 
-<p>find . -type f -name "*.txt"とfind . -type f -name "*.txt" | xargsを実行してみてください。出力されたファイルパスの文字列をxargsコマンドが空白区切りに処理して、openコマンドで開けるようにしてくれています</p>
+<p>find . -type f -name "*.txt"とfind . -type f -name "*.txt" | xargsを実行してみてください。出力されたファイルパスの文字列をxargsコマンドが空白区切りに処理して、openコマンドで開けるようにしてくれています。windowsとubuntuのxargs -n 1は、コマンドが引数を一つしか認識しないのでオプションで1つずつ渡しています。windowsのstartは、openコマンドを使用できないため使用しています</p>
 
 
 

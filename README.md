@@ -40,7 +40,8 @@ find . -type f -name "*.txt" | xargs -n 1 open</code></pre>
 example2.txt
 example3.txt
 example4.txt
-example5.txt</code></pre>
+example5.txt
+#5つのファイルが開きます</code></pre>
 </details>
 
 
@@ -65,7 +66,8 @@ find . -type f -name "*.txt" | xargs open</code></pre>
 example2.txt
 example3.txt
 example4.txt
-example5.txt</code></pre>
+example5.txt
+#5つのファイルが開きます</code></pre>
 </details>
 
 
@@ -103,7 +105,8 @@ find . -type f -name "*.txt" | xargs -n 1 start</code></pre>
 example2.txt
 example3.txt
 example4.txt
-example5.txt</code></pre>
+example5.txt
+#5つのファイルが開きます</code></pre>
 </details>
 
 
@@ -156,7 +159,7 @@ find . -type f -name "*.txt" | xargs -n 1 open</code></pre>
 
 
 <details class="wp-block-details"><summary>詳細</summary>
-<p><pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>example1.txt<br>example2.txt<br>example3.txt<br>example4.txt<br>example5.txt</code></pre></p>
+<p><pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>example1.txt<br>example2.txt<br>example3.txt<br>example4.txt<br>example5.txt<br>#5つのファイルが開きます</code></pre></p>
 </details>
 </details>
 
@@ -229,7 +232,7 @@ find . -type f -name "*.txt" | xargs open</code></pre>
 
 
 <details class="wp-block-details"><summary>詳細</summary>
-<p><pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>example1.txt<br>example2.txt<br>example3.txt<br>example4.txt<br>example5.txt</code></pre></p>
+<p><pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>example1.txt<br>example2.txt<br>example3.txt<br>example4.txt<br>example5.txt<br>#5つのファイルが開きます</code></pre></p>
 </details>
 </details>
 
@@ -333,7 +336,7 @@ find . -type f -name "*.txt" | xargs -n 1 start</code></pre>
 
 
 <details class="wp-block-details"><summary>詳細</summary>
-<p><pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>example1.txt<br>example2.txt<br>example3.txt<br>example4.txt<br>example5.txt</code></pre></p>
+<p><pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>example1.txt<br>example2.txt<br>example3.txt<br>example4.txt<br>example5.txt<br>#5つのファイルが開きます</code></pre></p>
 </details>
 </details>
 

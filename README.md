@@ -29,9 +29,7 @@
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/xargs_openFile
-cd xargs_openFile
-find . -type f -name "*.txt" | xargs -n 1 open</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/xargs_openFilecd xargs_openFilefind . -type f -name "*.txt" | xargs -n 1 open</code></pre>
 
 
 
@@ -54,10 +52,7 @@ example5.txt
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_alias
-git clone https://github.com/trygfmi/xargs_openFile
-cd xargs_openFile
-find . -type f -name "*.txt" | xargs open</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_aliasgit clone https://github.com/trygfmi/xargs_openFilecd xargs_openFilefind . -type f -name "*.txt" | xargs open</code></pre>
 
 
 
@@ -80,7 +75,7 @@ example5.txt
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>不可</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>不可</code></pre>
 
 
 
@@ -94,9 +89,7 @@ example5.txt
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/xargs_openFile
-cd xargs_openFile
-find . -type f -name "*.txt" | xargs -n 1 start</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/xargs_openFilecd xargs_openFilefind . -type f -name "*.txt" | xargs -n 1 start</code></pre>
 
 
 
@@ -128,7 +121,7 @@ example5.txt
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git --version</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git --version</code></pre>
 
 
 
@@ -140,7 +133,7 @@ example5.txt
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>sudo apt install git</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>sudo apt install git</code></pre>
 
 
 
@@ -152,14 +145,12 @@ example5.txt
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/xargs_openFile
-cd xargs_openFile
-find . -type f -name "*.txt" | xargs -n 1 open</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/xargs_openFilecd xargs_openFilefind . -type f -name "*.txt" | xargs -n 1 open</code></pre>
 
 
 
 <details class="wp-block-details"><summary>詳細</summary>
-<p><pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>example1.txt<br>example2.txt<br>example3.txt<br>example4.txt<br>example5.txt<br>#5つのファイルが開きます</code></pre></p>
+<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>example1.txt<br>example2.txt<br>example3.txt<br>example4.txt<br>example5.txt<br>#5つのファイルが開きます</code></pre>
 </details>
 </details>
 
@@ -178,8 +169,7 @@ find . -type f -name "*.txt" | xargs -n 1 open</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_alias
-git --version</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_aliasgit --version</code></pre>
 
 
 
@@ -211,8 +201,7 @@ git --version</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>sudo port install git
-echo 'alias git="/opt/local/bin/git"' &gt;&gt; ~/bashrc_folder/macports_alias</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>sudo port install gitecho 'alias git="/opt/local/bin/git"' >> ~/bashrc_folder/macports_alias</code></pre>
 
 
 
@@ -224,15 +213,12 @@ echo 'alias git="/opt/local/bin/git"' &gt;&gt; ~/bashrc_folder/macports_alias</c
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_alias
-git clone https://github.com/trygfmi/xargs_openFile
-cd xargs_openFile
-find . -type f -name "*.txt" | xargs open</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_aliasgit clone https://github.com/trygfmi/xargs_openFilecd xargs_openFilefind . -type f -name "*.txt" | xargs open</code></pre>
 
 
 
 <details class="wp-block-details"><summary>詳細</summary>
-<p><pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>example1.txt<br>example2.txt<br>example3.txt<br>example4.txt<br>example5.txt<br>#5つのファイルが開きます</code></pre></p>
+<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>example1.txt<br>example2.txt<br>example3.txt<br>example4.txt<br>example5.txt<br>#5つのファイルが開きます</code></pre>
 </details>
 </details>
 
@@ -255,7 +241,7 @@ find . -type f -name "*.txt" | xargs open</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>不可</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>不可</code></pre>
 
 
 
@@ -263,7 +249,7 @@ find . -type f -name "*.txt" | xargs open</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git --version</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git --version</code></pre>
 
 
 
@@ -291,7 +277,7 @@ find . -type f -name "*.txt" | xargs open</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>不可</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>不可</code></pre>
 
 
 
@@ -299,7 +285,7 @@ find . -type f -name "*.txt" | xargs open</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>pacman --sync git</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>pacman --sync git</code></pre>
 
 
 
@@ -315,12 +301,12 @@ find . -type f -name "*.txt" | xargs open</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>不可</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>不可</code></pre>
 
 
 
 <details class="wp-block-details"><summary>詳細</summary>
-<p><pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>不可</code></pre></p>
+<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>不可</code></pre>
 </details>
 
 
@@ -329,14 +315,12 @@ find . -type f -name "*.txt" | xargs open</code></pre>
 
 
 
-<pre class="wp-block-code has-cyan-bluish-gray-background-color has-background"><code>git clone https://github.com/trygfmi/xargs_openFile
-cd xargs_openFile
-find . -type f -name "*.txt" | xargs -n 1 start</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/xargs_openFilecd xargs_openFilefind . -type f -name "*.txt" | xargs -n 1 start</code></pre>
 
 
 
 <details class="wp-block-details"><summary>詳細</summary>
-<p><pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>example1.txt<br>example2.txt<br>example3.txt<br>example4.txt<br>example5.txt<br>#5つのファイルが開きます</code></pre></p>
+<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>example1.txt<br>example2.txt<br>example3.txt<br>example4.txt<br>example5.txt<br>#5つのファイルが開きます</code></pre>
 </details>
 </details>
 
@@ -346,7 +330,7 @@ find . -type f -name "*.txt" | xargs -n 1 start</code></pre>
 
 
 
-<pre class="wp-block-code has-background" style="background-color:#abb8c3"><code>find . -type f -name "*.txt"</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>find . -type f -name "*.txt"</code></pre>
 
 
 
@@ -354,7 +338,7 @@ find . -type f -name "*.txt" | xargs -n 1 start</code></pre>
 
 
 
-<pre class="wp-block-code has-background" style="background-color:#abb8c3"><code>find . -type f -name "*.txt" | xargs</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>find . -type f -name "*.txt" | xargs</code></pre>
 
 
 
@@ -367,4 +351,3 @@ find . -type f -name "*.txt" | xargs -n 1 start</code></pre>
 
 
 <p></p>
-
